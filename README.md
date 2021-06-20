@@ -4,7 +4,7 @@
 
 ### Background
 
-- A playwriter who wants to launch her first raise funding campaign to obtain 10,000 USD that will be used to cover her new play “Fever” estimated budget.
+- A playwriter wants to launch her first raise funding campaign to obtain 10,000 USD that will be used to cover her new play “Fever” estimated budget.
 
 ### Purpose
 
