@@ -48,6 +48,8 @@ Note: Parent Category: Theater, 1369 cases
 
 ### Challenges and Difficulties Encountered
 
+- Percentage rates could be misleading as erratic behavior is expected with small samples
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
